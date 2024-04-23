@@ -8,7 +8,7 @@ poga.addEventListener("click", () => {
     if(number > 0){
         poga.textContent = `Nospied mani vēl ${number}x`
     } else {
-        window.open("https://youtu.be/dQw4w9WgXcQ?si=2H2PgZ2r5FH6Bj6e")
+        window.open("https://youtu.be/uIBJJ3M76Mg?si=DBQavKwz9v7O0fz3e")
 
         number = 10
 
